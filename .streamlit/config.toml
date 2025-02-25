@@ -1,0 +1,12 @@
+[server]
+headless = true
+
+[theme]
+base="dark"
+primaryColor="#000000"  # Dark for primary highlights
+backgroundColor="#3E2723"  # Dark brown background
+secondaryBackgroundColor="#3E2723"  # Dark brown for sidebar background
+textColor="#FFFFFF"  # White text for contrast
+
+[main]
+mainPageName = "Intro"
